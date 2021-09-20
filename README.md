@@ -20,4 +20,4 @@ Red Rabbit is a framework for Wifi attacks, Fake AP's, and web scanning &lt;stil
 
 <h1>ALL IN ONE</h1>
 
-`git clone https://github.com/Red-Rabbit.git && cd Red-Rabbit && chmod +x ./install.sh && ./install.sh && sudo ruby rouge.rb`
+`git clone https://github.com/ArkAngeL43/Red-Rabbit.git && cd Red-Rabbit && chmod +x ./install.sh && ./install.sh && sudo ruby rouge.rb`
