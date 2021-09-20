@@ -14,3 +14,4 @@ Red Rabbit is a framework for Wifi attacks, Fake AP's, and web scanning &lt;stil
 `can port scan websites amd hosts, and lastly check connections. you will need the following` <br>
 
 
+<h4>Ruby, Perl, Bash or Batch, Python3, Pip3, CPAN, Gem </h4>
