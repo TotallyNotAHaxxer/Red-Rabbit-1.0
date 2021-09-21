@@ -6,11 +6,9 @@ require 'timeout'
 require 'net/http'
 
 
-#   $ apt install libpcap-dev
-#   $ gem install packetgen
-#   Enable monitoring mode on your wireless card as *root*
-#   $ iw dev
-#   $ iw phy phy1 interface add mon0 type monitor && ifconfig mon0 up
+#    apt install libpcap-dev
+#    gem install packetgen
+#    iw phy phy1 interface add mon0 type monitor && ifconfig mon0 up
 
 
 
